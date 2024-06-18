@@ -12,8 +12,11 @@ Here are its top features:
 
 
 ⚙️ Feature #2 - Advanced ATS Functionality: Our system compares your resume against specific job descriptions, evaluating match percentages and highlighting areas for improvement.
+![Xnip2024-06-18_11-30-38](https://github.com/shreeharib/jobassistantai/assets/107598445/684d811f-11e4-4762-a3e5-305372a93a58)
 
 💡 Feature #3 - Targeted Project Ideas: Boost your employability with suggested impactful projects relevant to your desired field or position.
+![Xnip2024-06-18_11-31-27](https://github.com/shreeharib/jobassistantai/assets/107598445/f410c54a-e955-4881-a33e-ff0a6ea7d5a8)
+
 Maximize your potential and let us assist you in securing your dream career!
 
 

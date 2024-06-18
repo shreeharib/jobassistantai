@@ -2,11 +2,14 @@
 # AI-Powered Placement Preparation Assistant
 
 This tool is designed to help you land your dream job by providing personalized guidance throughout the application process.
+
 ![Xnip2024-06-18_11-30-26](https://github.com/shreeharib/jobassistantai/assets/107598445/64226f69-2119-4b68-b7f8-372c7366f0f4)
 
 Here are its top features:
 
 📄 Feature #1 - Personalized Resume Suggestions: Get tailored advice on improving your resume based on content analysis and industry standards.
+![Xnip2024-06-18_11-31-00](https://github.com/shreeharib/jobassistantai/assets/107598445/db7b5286-ae77-4377-b58e-4217c48821c6)
+
 
 ⚙️ Feature #2 - Advanced ATS Functionality: Our system compares your resume against specific job descriptions, evaluating match percentages and highlighting areas for improvement.
 

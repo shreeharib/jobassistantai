@@ -1,7 +1,10 @@
 
 # AI-Powered Placement Preparation Assistant
 
-This tool is designed to help you land your dream job by providing personalized guidance throughout the application process. Here are its top features:
+This tool is designed to help you land your dream job by providing personalized guidance throughout the application process.
+![Xnip2024-06-18_11-30-26](https://github.com/shreeharib/jobassistantai/assets/107598445/64226f69-2119-4b68-b7f8-372c7366f0f4)
+
+Here are its top features:
 
 📄 Feature #1 - Personalized Resume Suggestions: Get tailored advice on improving your resume based on content analysis and industry standards.
 
